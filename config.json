@@ -1,0 +1,6 @@
+{
+    "root_directory": "\\\\ic\\IC_DME_DFS\\QME_PROD\\PRIM\\POMI\\PRODUCTION",
+    "report_run_date": "2023-12-01",
+    "pomi_connection_string":"Driver={SQL Server}; Server=DMEDENT; Database=PRIM_POMI; Trusted_Connection=yes;",
+    "mapping_connection_string":"Driver={SQL Server}; Server=DMEDSS; Database=DSS_CORPORATE; Trusted_Connection=yes;"
+}
