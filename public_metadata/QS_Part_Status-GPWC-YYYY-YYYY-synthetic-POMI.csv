@@ -1,0 +1,23 @@
+Report Run Date:,Unnamed: 1,DD/MM/YYYY,Unnamed: 3,Quality Service Participation Status Report,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Page 1 of,Unnamed: 10,1
+GP Workload Collection,,,,,,,,,,,
+,,,,,Financial Year:,YYYY/YYYY,,,,,
+,Summary:,,,,Offered:,3,,,,,
+,,,,,Approved:,4,,,,,
+,,,,,Rejected:,2,,,,,
+,,,,,Cancelled:,1,,,,,
+,,,,,Total:,10,,,,,
+Details:,,,,,,,,,,,
+,"Service
+Provider Id",,Service Provider Name,,,"Organisation
+Type","Commissioning
+Organisation Name",Status,,Status Date,
+,A10001,,Practice A,,,GP Practice,Region A,Approved,,28/06/2022,
+,A10002,,Practice B,,,GP Practice,Region B,Approved,,28/06/2022,
+,A10003,,Practice C,,,GP Practice,Region C,Approved,,28/06/2022,
+,A10004,,Practice D,,,GP Practice,Region A,Offered,,28/06/2022,
+,A10005,,Practice E,,,GP Practice,Region B,Offered,,28/04/2022,
+,A10006,,Practice F,,,GP Practice,Region C,Cancelled,,28/04/2022,
+,A10007,,Practice G,,,GP Practice,Region A,Rejected,,29/04/2022,
+,A10008,,Practice H,,,GP Practice,Region B,Offered,,28/04/2022,
+,A10009,,Practice I,,,GP Practice,Region C,Rejected,,27/04/2022,
+,A10010,,Practice J,,,GP Practice,Region A,Approved,,27/04/2022,
